@@ -4,7 +4,7 @@
 %Author            :Joel Emmanuel De La Cruz Rodriguez,Maria Guadalupe Martinez Narvaes,Osvaldo Hernandez Martinez
 %Date              :20211007
 %Version           :1
-%Usage             :C:\Users\Leo\
+%Usage             C:\Users\Leo\Documents\DocumentosOctave\Inecuaciones.m
 %Notes             :Requiere aplicacion obtave
 
 
